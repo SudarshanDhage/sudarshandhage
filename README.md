@@ -24,19 +24,23 @@ Developing scalable Flutter applications with Firebase integration, building Nod
 ## 🔭 Tech Stack
 
 **Languages**  
-![Languages](https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,mysql,dart)
+![Languages](https://skillicons.dev/icons?i=python,typescript,javascript,java,mysql,dart,html,css)  
+`SQL`
 
-**Frameworks & Libraries**  
-![Frameworks](https://skillicons.dev/icons?i=react,nodejs,nextjs,bootstrap,flutter,tailwindcss)  
-`Provider/Riverpod`
+**Technologies**  
+![Technologies](https://skillicons.dev/icons?i=nodejs,express,nextjs,react,flutter,fastapi,graphql,tailwindcss)  
+`Hono` • `Temporal` • `REST APIs` • `WebSockets` • `Puppeteer` • `Zustand` • `TanStack Query` • `Zod` • `Provider/Riverpod`
 
-**Database & Cloud**  
-![Database & Cloud](https://skillicons.dev/icons?i=mysql,postgresql,firebase,gcp,aws)  
-`Firebase Firestore` • `ORMs` • `AWS EC2`
+**Tools**  
+![Tools](https://skillicons.dev/icons?i=docker,githubactions,gcp,cloudflare,aws,firebase,git)  
+`Google Cloud Run` • `Cloudflare Workers` • `Cloudflare R2` • `AWS EC2` • `AWS Lambda` • `Supabase` • `Upstash Redis`
 
-**AI & Development Tools**  
-![Tools](https://skillicons.dev/icons?i=docker,git,vscode)  
-`Kafka` • `RabbitMQ` • `GitHub Actions` • `Testcontainers` • `Prometheus` • `Grafana` • `OpenTelemetry` • `Google Gemini API` • `Grok API` • `Cursor AI`
+**AI & Data**  
+![AI and Data](https://skillicons.dev/icons?i=postgresql,mysql,redis,firebase)  
+`RAG` • `Qdrant` • `pgvector` • `SentenceTransformers` • `LangChain` • `Gemini API` • `Grok API` • `OpenRouter` • `Firestore` • `PostgreSQL` • `MySQL` • `Redis`
+
+**CS Fundamentals**  
+`Data Structures and Algorithms` • `Object Oriented Programming` • `Databases` • `Operating Systems` • `Computer Networks` • `Artificial Intelligence`
 
 **📚 Want to Learn**  
 ![Learning](https://skillicons.dev/icons?i=go,rust,solidity)
