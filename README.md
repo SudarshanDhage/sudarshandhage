@@ -2,7 +2,7 @@
 # 👋 Sudarshan Dhage
 
 
-**Associate Software Developer | AI-Driven Engineer | Full-Stack Engineer**
+**Associate Software Developer | Mobile · Backend · Applied AI**
 
 ---
 
