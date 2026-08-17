@@ -28,7 +28,7 @@ Developing scalable Flutter applications with Firebase integration, building Nod
 
 **Frameworks & Libraries**  
 ![Frameworks](https://skillicons.dev/icons?i=react,nodejs,nextjs,bootstrap,flutter,tailwindcss)  
-`Spring Boot` • `Hibernate` • `Provider/Riverpod` • `Resilience4j`
+`Provider/Riverpod`
 
 **Database & Cloud**  
 ![Database & Cloud](https://skillicons.dev/icons?i=mysql,postgresql,firebase,gcp,aws)  
