@@ -43,16 +43,6 @@ Developing scalable Flutter applications with Firebase integration, building Nod
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SudarshanDhage&theme=github&bg_color=FFFFFF&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&hide_grid=true&custom_title=Contribution%20Activity&radius=6&height=400)
-
-</div>
-
----
-
 ## 🤝 Contact
 
 <div align="center">
