@@ -1,18 +1,18 @@
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { renderHero } from './lib/hero.mjs';
-import { renderNow } from './lib/now.mjs';
-import { renderStack } from './lib/stack.mjs';
+import { renderBanner } from './lib/banner.mjs';
+import { renderBento } from './lib/bento.mjs';
+import { renderMarquee } from './lib/marquee.mjs';
 import { themes } from './lib/themes.mjs';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const assetsDir = join(root, 'assets');
 
 const renderers = {
-  hero: renderHero,
-  stack: renderStack,
-  now: renderNow
+  banner: renderBanner,
+  marquee: renderMarquee,
+  bento: renderBento
 };
 
 async function main() {

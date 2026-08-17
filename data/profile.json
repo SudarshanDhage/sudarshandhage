@@ -1,47 +1,41 @@
 {
   "name": "Sudarshan Dhage",
   "handle": "SudarshanDhage",
-  "roles": [
-    "Software Engineer",
-    "Full-Stack Developer",
-    "Flutter & Node.js Engineer",
-    "AI-Driven Builder"
+  "roles": ["software engineer", "mobile + backend", "applied AI"],
+  "tagline": "I design and ship products end to end — interface, service, and everything between.",
+  "meta": [
+    { "key": "focus", "value": "Flutter · Node.js · Firebase" },
+    { "key": "mode", "value": "AI-assisted, review-disciplined" },
+    { "key": "status", "value": "building something of my own" }
   ],
-  "tagline": "Turning product ideas into software people actually use.",
-  "stack": [
+  "marquee": [
+    ["Dart", "Flutter", "TypeScript", "JavaScript", "React", "Next.js", "Tailwind CSS", "Riverpod", "Provider"],
+    ["Node.js", "Express", "Java", "Spring Boot", "PostgreSQL", "Firebase", "Kafka", "Docker", "AWS", "Prometheus", "OpenTelemetry", "Gemini API"]
+  ],
+  "tiles": [
     {
-      "label": "Languages",
-      "items": ["Dart", "TypeScript", "JavaScript", "Java", "Python", "SQL"]
+      "label": "Now",
+      "lines": ["Engineering my own application from an empty repository to a shipped product."]
     },
     {
-      "label": "Mobile & Frontend",
-      "items": ["Flutter", "React", "Next.js", "Riverpod", "Provider", "Tailwind CSS"]
+      "label": "Building with",
+      "lines": ["Flutter and Firebase on the client, Node.js services and event flows behind it."]
     },
     {
-      "label": "Backend",
-      "items": ["Node.js", "Express", "Spring Boot", "Hibernate", "REST APIs", "Resilience4j"]
+      "label": "Applied AI",
+      "lines": ["LLM APIs wired into real workflows, with validation around every model response."]
     },
     {
-      "label": "Data & Cloud",
-      "items": ["Firebase", "PostgreSQL", "MySQL", "Google Cloud", "AWS EC2", "Docker"]
+      "label": "Craft",
+      "lines": ["Typed contracts, handled failure paths, and instrumentation that answers questions."]
     },
     {
-      "label": "Streaming & Delivery",
-      "items": ["Kafka", "RabbitMQ", "GitHub Actions", "Testcontainers"]
+      "label": "Exploring",
+      "lines": ["Distributed systems, Go, Rust, and Solidity — one deliberate project at a time."]
     },
     {
-      "label": "Observability",
-      "items": ["Prometheus", "Grafana", "OpenTelemetry"]
-    },
-    {
-      "label": "AI Engineering",
-      "items": ["Gemini API", "Grok API", "Agentic workflows", "Prompt design"]
+      "label": "Open to",
+      "lines": ["Product engineering conversations, mobile and backend work, useful AI features."]
     }
-  ],
-  "now": [
-    { "command": "cat current-role.txt", "output": "Associate Software Developer @ Obvitree" },
-    { "command": "git log --oneline -1 side-project", "output": "engineering my own app end to end" },
-    { "command": "ls ~/learning", "output": "distributed-systems  go  rust  solidity" },
-    { "command": "echo $OPEN_TO", "output": "product engineering conversations" }
   ]
 }

@@ -19,6 +19,24 @@ export function measureText(value, fontSize, { bold = false, mono = false } = {}
   return width;
 }
 
+export function wrapText(value, fontSize, maxWidth, options = {}) {
+  const lines = [];
+  let current = '';
+
+  for (const word of value.split(' ')) {
+    const candidate = current === '' ? word : `${current} ${word}`;
+    if (measureText(candidate, fontSize, options) > maxWidth && current !== '') {
+      lines.push(current);
+      current = word;
+      continue;
+    }
+    current = candidate;
+  }
+
+  if (current !== '') lines.push(current);
+  return lines;
+}
+
 export function escapeXml(value) {
   return String(value)
     .replace(/&/g, '&amp;')

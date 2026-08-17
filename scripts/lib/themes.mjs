@@ -1,33 +1,31 @@
 export const themes = {
   dark: {
     id: 'dark',
-    surface: '#0d1117',
-    surfaceRaised: '#161b22',
-    border: '#232c37',
-    text: '#e6edf3',
-    textMuted: '#8b949e',
-    chipFill: '#161b22',
-    chipText: '#c9d1d9',
-    accentFrom: '#7c5cff',
-    accentTo: '#22d3ee',
-    accentSolid: '#58a6ff',
-    glowOpacity: 0.5,
-    gridOpacity: 0.35
+    surface: '#0a0c10',
+    surfaceRaised: '#11151b',
+    border: '#1e2530',
+    borderStrong: '#2b3644',
+    text: '#f0f6fc',
+    textMuted: '#7d8590',
+    accentFrom: '#34d399',
+    accentTo: '#a3e635',
+    accentSolid: '#34d399',
+    hairlineOpacity: 0.55,
+    washOpacity: 0.12
   },
   light: {
     id: 'light',
     surface: '#ffffff',
     surfaceRaised: '#f6f8fa',
-    border: '#d8dee4',
-    text: '#1f2328',
+    border: '#dfe3e8',
+    borderStrong: '#c4ccd6',
+    text: '#0d1117',
     textMuted: '#59636e',
-    chipFill: '#f6f8fa',
-    chipText: '#1f2328',
-    accentFrom: '#6d3bf5',
-    accentTo: '#0891b2',
-    accentSolid: '#0969da',
-    glowOpacity: 0.22,
-    gridOpacity: 0.5
+    accentFrom: '#059669',
+    accentTo: '#4d7c0f',
+    accentSolid: '#059669',
+    hairlineOpacity: 0.8,
+    washOpacity: 0.08
   }
 };
 

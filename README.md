@@ -1,90 +1,67 @@
-<div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudarshanDhage/sudarshandhage/main/assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SudarshanDhage/sudarshandhage/main/assets/hero-light.svg">
-  <img alt="Sudarshan Dhage — Software Engineer" src="https://raw.githubusercontent.com/SudarshanDhage/sudarshandhage/main/assets/hero-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudarshanDhage/sudarshandhage/main/assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SudarshanDhage/sudarshandhage/main/assets/banner-light.svg">
+  <img alt="Sudarshan Dhage — software engineer" src="https://raw.githubusercontent.com/SudarshanDhage/sudarshandhage/main/assets/banner-dark.svg" width="100%">
 </picture>
 
-<br>
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sudarshan--dhage-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudarshan-dhage)
-[![Email](https://img.shields.io/badge/Email-sudarshan096k@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sudarshan096k@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sudarshan096k@gmail.com-10B981?style=flat-square&logo=gmail&logoColor=white)](mailto:sudarshan096k@gmail.com)
 [![X](https://img.shields.io/badge/X-@DhageSudarshan__-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/DhageSudarshan_)
 
 </div>
 
-## About
+## What I do
 
-I'm a software engineer who enjoys owning a feature end to end — from the data model and API contract through to the interface someone actually taps. Most of my work sits at the intersection of **mobile**, **backend services**, and **applied AI**.
+I build products end to end — the Flutter interface someone taps, the Node.js service behind it, and the data model holding it together. Lately a lot of that work involves putting language models to real use: not demos, but features with validation, fallbacks, and a sensible failure story.
 
-What I care about in the code I ship:
+Three things I hold to, regardless of the stack:
 
-- **Correctness first.** Clear domain models, predictable state, and failure paths that are handled rather than hoped away.
-- **Systems that explain themselves.** Structured logging, metrics, and traces so production questions have answers.
-- **Momentum without mess.** AI-assisted workflows to move quickly, paired with review discipline so speed doesn't cost quality.
-- **Interfaces people don't have to think about.** Fast, accessible, and consistent across devices.
-
-## Experience
-
-**Associate Software Developer** — Obvitree · *December 2024 – Present*
-
-- Build and ship cross-platform **Flutter** applications backed by **Firebase**, covering authentication, real-time data sync, and offline-tolerant state.
-- Develop **Node.js** services for real-time features, designing REST contracts and event flows between mobile clients and backend systems.
-- Integrate **LLM APIs** into product workflows, turning model output into reliable, validated application behaviour.
-- Improve delivery quality through automated pipelines, container-based environments, and instrumentation for production visibility.
-
-## Technical toolkit
-
-<div align="center">
+**Model the domain first.** Clear types and honest contracts prevent more bugs than any amount of defensive code.
+**Assume production will ask questions.** Structured logs, metrics, and traces belong in the first version, not the postmortem.
+**Move fast, then earn it.** AI-assisted development is only an advantage when the review discipline keeps up with the output.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudarshanDhage/sudarshandhage/main/assets/stack-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SudarshanDhage/sudarshandhage/main/assets/stack-light.svg">
-  <img alt="Technical toolkit" src="https://raw.githubusercontent.com/SudarshanDhage/sudarshandhage/main/assets/stack-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudarshanDhage/sudarshandhage/main/assets/marquee-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SudarshanDhage/sudarshandhage/main/assets/marquee-light.svg">
+  <img alt="Technologies I work with" src="https://raw.githubusercontent.com/SudarshanDhage/sudarshandhage/main/assets/marquee-dark.svg" width="100%">
 </picture>
 
-</div>
-
-## Currently
-
-<div align="center">
+## Where my attention is
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudarshanDhage/sudarshandhage/main/assets/now-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SudarshanDhage/sudarshandhage/main/assets/now-light.svg">
-  <img alt="What I am working on right now" src="https://raw.githubusercontent.com/SudarshanDhage/sudarshandhage/main/assets/now-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudarshanDhage/sudarshandhage/main/assets/bento-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SudarshanDhage/sudarshandhage/main/assets/bento-light.svg">
+  <img alt="Current focus areas" src="https://raw.githubusercontent.com/SudarshanDhage/sudarshandhage/main/assets/bento-dark.svg" width="100%">
 </picture>
 
-</div>
+## About these graphics
 
-## How this profile is built
-
-The banner, toolkit board, and terminal card above aren't screenshots or third-party widgets — they're **animated SVGs generated by a small Node script in this repository**, with no runtime dependencies.
+Everything above is an animated SVG this repository generates itself — no image editor, no third-party widget service, no runtime dependencies.
 
 ```
-data/profile.json     Single source of truth: roles, stack, current focus
-scripts/build.mjs     Entry point — renders every asset in both themes
-scripts/lib/hero.mjs  Animated banner: gradient field, rotating roles, orbit motif
-scripts/lib/stack.mjs Auto-wrapping chip layout with staggered reveal
-scripts/lib/now.mjs   Terminal card with sequential typing animation
+data/profile.json        One source of truth for every word on this page
+scripts/build.mjs        Renders each asset in a dark and a light variant
+scripts/lib/banner.mjs   Header: hairline texture, sweeping sheen, staggered meta column
+scripts/lib/marquee.mjs  Two counter-scrolling tech rows, edges masked with a gradient
+scripts/lib/bento.mjs    Auto-sized tile grid with a cascading reveal
+scripts/lib/text.mjs     Glyph-class width estimation for wrapping and alignment
 ```
 
-Layout is computed rather than hand-placed: text widths are estimated per glyph class, chips wrap to fit the available column, and every card grows to fit its content. Editing `data/profile.json` and running the build is all it takes to update this page.
+Nothing is positioned by hand. Text widths are estimated per character class, so chips size themselves, copy wraps to the column, tiles settle on a shared height, and the scrolling rows compute their own loop distance and duration. Change a line in `data/profile.json`, rebuild, and the layout re-solves.
 
 ```bash
-npm run build   # regenerates assets/ for the dark and light themes
+npm run build   # regenerates assets/ for both themes
 ```
 
-A GitHub Actions workflow reruns the same build whenever the data or renderers change, so the committed assets never drift from their source.
+A GitHub Actions workflow runs the same build whenever the data or renderers change, so what's committed always matches its source.
 
 <div align="center">
 
 ---
 
-### Open to interesting problems
-
-Product engineering, mobile and backend systems, or putting AI to work on something genuinely useful — happy to talk.
+**Open to interesting problems** — mobile and backend engineering, or making AI genuinely useful inside a product.
 
 [LinkedIn](https://linkedin.com/in/sudarshan-dhage) · [Email](mailto:sudarshan096k@gmail.com) · [X](https://x.com/DhageSudarshan_)
 
