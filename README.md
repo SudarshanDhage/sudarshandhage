@@ -8,16 +8,23 @@
 
 ## 📝 About
 
-I'm Sudarshan, a Software Engineer working in various domains like full stack development, mobile app development, AI-powered solutions, and backend engineering. Currently serving as Associate Software Developer at Obvitree, with expertise in Flutter, Node.js, and AI-assisted development workflows.
+I'm Sudarshan, an Associate Software Developer at Obvitree building customer-facing products across Flutter, Next.js, and Node.js/TypeScript. My work covers mobile apps, backend APIs, retrieval-augmented AI, and production delivery — from requirements through deployment and incident resolution.
 
-<strong><em>⚙️ Engineering my own app from scratch.</em></strong>
+Outside work, I'm building [MergedCode](https://mergedcode.com), a software engineering learning workspace spanning web and Android.
+
+<strong><em>⚙️ Shipping products end to end — mobile, web, backend, and AI.</em></strong>
 
 ## 💼 Experience
 
 **Associate Software Developer** | Obvitree  
-*December 2024 – Present*
+*June 2024 – Present*
 
-Developing scalable Flutter applications with Firebase integration, building Node.js backends for real-time systems, and implementing AI-powered solutions using modern AI tools.
+- Own delivery of customer-facing crypto products across a Flutter app, Next.js operations console, and Node.js/TypeScript backend — from requirements through deployment and incident resolution.
+- Built an AI crypto Q&A experience with Qdrant retrieval and LLMs (Gemini, Grok, OpenRouter), wiring RAG into product UI and backend APIs end to end.
+- Architected fault-tolerant Puppeteer ingestion across 100+ news sources with parsers, retries, deduplication, and scheduling.
+- Built a secure Next.js internal platform with fine-grained RBAC, AI-assisted moderation, and operational tracking across users, content, and token usage.
+- Shipped the Flutter app with personalized news, courses/quizzes, portfolio tracking, and price alerts for 100+ cryptocurrencies; cut API response times by 40%.
+- Owned production delivery via Docker, GitHub Actions, Play Store and App Store releases, logging and monitoring.
 
 ---
 
@@ -60,6 +67,6 @@ Developing scalable Flutter applications with Firebase integration, building Nod
 
 <div align="center">
 
-*Last updated: February 2025*
+*Last updated: August 2026*
 
 </div>
