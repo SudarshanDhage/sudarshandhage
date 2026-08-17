@@ -1,44 +1,41 @@
-# Sudarshan Dhage
+### Sudarshan Dhage
 
-```json
-{
-  "name": "Sudarshan Dhage",
-  "role": "Software Engineer",
-  "focus": ["Mobile", "Backend", "Applied AI"],
-  "currently": "Building MergedCode, first commit to production",
+Software engineer building mobile, backend, and AI products end to end.  
+Currently at **Obvitree**, and shipping **[MergedCode](https://mergedcode.com)** on the side.
 
-  "work": {
-    "company": "Obvitree",
-    "title": "Associate Software Developer",
-    "since": "2024-06",
-    "owns": ["Flutter app", "Next.js ops console", "Node.js + TypeScript APIs", "AI pipelines", "delivery"],
-    "shipped": ["AI crypto Q&A on Qdrant + Gemini/Grok/OpenRouter", "Puppeteer ingestion across 100+ sources", "Next.js ops platform with RBAC and AI moderation", "Flutter app: news, quizzes, portfolio, alerts for 100+ coins"],
-    "outcomes": { "apiResponseTime": "-40%", "releases": ["Play Store", "App Store"] }
-  },
+<a href="mailto:sudarshan096k@gmail.com">Email</a> ·
+<a href="https://linkedin.com/in/sudarshan-dhage">LinkedIn</a> ·
+<a href="https://x.com/DhageSudarshan_">X</a>
 
-  "projects": {
-    "MergedCode": { "url": "https://mergedcode.com", "what": "SWE learning workspace, solo-built", "stack": ["Next.js", "Flutter", "Hono", "Firebase", "Cloudflare Workers/R2", "Cloud Run"] },
-    "NoteForge": { "what": "PDF to Obsidian vault generator", "outcomes": { "tokenCost": "-70/80%", "speed": "+70%", "installs": "300+" }, "stack": ["Python", "FastAPI", "React", "pgvector", "Lambda", "R2"] },
-    "ClassAsk": { "what": "Live classroom Q&A with agentic AI", "stack": ["Python", "FastAPI", "WebSockets", "RAG", "SentenceTransformers"] }
-  },
+#### Things I've built
 
-  "stack": {
-    "languages": ["Python", "TypeScript", "JavaScript", "Java", "Dart", "SQL"],
-    "clients": ["Flutter", "Next.js", "React", "Zustand", "TanStack Query"],
-    "services": ["Node.js", "Express", "Hono", "FastAPI", "GraphQL", "WebSockets", "Temporal", "Zod"],
-    "ai": ["RAG", "Qdrant", "pgvector", "LangChain", "Gemini", "Grok", "OpenRouter"],
-    "data": ["PostgreSQL", "MySQL", "Firestore", "Redis", "Supabase"],
-    "cloud": ["Docker", "GitHub Actions", "Cloud Run", "Cloudflare Workers/R2", "AWS EC2/Lambda", "Firebase"]
-  },
+| Project | What it is | Built with |
+| :-- | :-- | :-- |
+| **[MergedCode](https://mergedcode.com)** | Learning workspace for DSA, system design, and interview prep. Web and Android, one shared API. | Next.js · Flutter · Hono · Firebase · Cloudflare |
+| **NoteForge** | Turns PDFs into linked Obsidian vaults and knowledge graphs. 300+ installs. | Python · FastAPI · React · pgvector · Lambda |
+| **ClassAsk** | Live classroom Q&A that summarises questions and generates quizzes. | Python · FastAPI · WebSockets · RAG |
 
-  "education": { "degree": "B.Tech. Robotics and Automation", "school": "Bharati Vidyapeeth, Pune", "years": "2020-2024", "cgpa": "9.42/10" },
+#### At Obvitree
 
-  "contact": { "email": "sudarshan096k@gmail.com", "linkedin": "in/sudarshan-dhage", "x": "@DhageSudarshan_" }
-}
-```
+Associate Software Developer, since June 2024. I own features across the Flutter app, the Next.js operations console, and the Node.js API — requirements through deployment and incident response.
 
-<p align="center">
-  <a href="mailto:sudarshan096k@gmail.com">Email</a> ·
-  <a href="https://linkedin.com/in/sudarshan-dhage">LinkedIn</a> ·
-  <a href="https://mergedcode.com">MergedCode</a>
-</p>
+| | |
+| :-- | :-- |
+| AI Q&A | Qdrant retrieval with Gemini, Grok, and OpenRouter, wired into app and API |
+| Ingestion | Puppeteer pipeline over 100+ news sources with parsers, retries, and dedupe |
+| Ops console | Next.js platform with fine-grained RBAC, AI moderation, and usage tracking |
+| Mobile | News, courses, quizzes, portfolio, and alerts for 100+ cryptocurrencies |
+| Impact | API response times down 40%; releases shipped to Play Store and App Store |
+
+#### What I work with
+
+**Languages** Python, TypeScript, Dart, Java, SQL  
+**Clients** Flutter, Next.js, React  
+**Services** Node.js, Hono, Express, FastAPI, GraphQL, WebSockets  
+**AI** RAG, Qdrant, pgvector, LangChain, Gemini, Grok, OpenRouter  
+**Data** PostgreSQL, MySQL, Firestore, Redis, Supabase  
+**Cloud** Docker, GitHub Actions, Cloudflare Workers, Cloud Run, AWS, Firebase
+
+#### Before that
+
+B.Tech. in Robotics and Automation, Bharati Vidyapeeth Pune, 2020–2024. CGPA 9.42.
