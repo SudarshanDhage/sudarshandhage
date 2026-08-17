@@ -1,41 +1,71 @@
-### Sudarshan Dhage
 
-Software engineer building mobile, backend, and AI products end to end.  
-Currently at **Obvitree**, and shipping **[MergedCode](https://mergedcode.com)** on the side.
+# 👋 Sudarshan Dhage
 
-<a href="mailto:sudarshan096k@gmail.com">Email</a> ·
-<a href="https://linkedin.com/in/sudarshan-dhage">LinkedIn</a> ·
-<a href="https://x.com/DhageSudarshan_">X</a>
 
-#### Things I've built
+**Associate Software Developer | AI-Driven Engineer | Full-Stack Engineer**
 
-| Project | What it is | Built with |
-| :-- | :-- | :-- |
-| **[MergedCode](https://mergedcode.com)** | Learning workspace for DSA, system design, and interview prep. Web and Android, one shared API. | Next.js · Flutter · Hono · Firebase · Cloudflare |
-| **NoteForge** | Turns PDFs into linked Obsidian vaults and knowledge graphs. 300+ installs. | Python · FastAPI · React · pgvector · Lambda |
-| **ClassAsk** | Live classroom Q&A that summarises questions and generates quizzes. | Python · FastAPI · WebSockets · RAG |
+---
 
-#### At Obvitree
+## 📝 About
 
-Associate Software Developer, since June 2024. I own features across the Flutter app, the Next.js operations console, and the Node.js API — requirements through deployment and incident response.
+I'm Sudarshan, a Software Engineer working in various domains like full stack development, mobile app development, AI-powered solutions, and backend engineering. Currently serving as Associate Software Developer at Obvitree, with expertise in Flutter, Node.js, and AI-assisted development workflows.
 
-| | |
-| :-- | :-- |
-| AI Q&A | Qdrant retrieval with Gemini, Grok, and OpenRouter, wired into app and API |
-| Ingestion | Puppeteer pipeline over 100+ news sources with parsers, retries, and dedupe |
-| Ops console | Next.js platform with fine-grained RBAC, AI moderation, and usage tracking |
-| Mobile | News, courses, quizzes, portfolio, and alerts for 100+ cryptocurrencies |
-| Impact | API response times down 40%; releases shipped to Play Store and App Store |
+<strong><em>⚙️ Engineering my own app from scratch.</em></strong>
 
-#### What I work with
+## 💼 Experience
 
-**Languages** Python, TypeScript, Dart, Java, SQL  
-**Clients** Flutter, Next.js, React  
-**Services** Node.js, Hono, Express, FastAPI, GraphQL, WebSockets  
-**AI** RAG, Qdrant, pgvector, LangChain, Gemini, Grok, OpenRouter  
-**Data** PostgreSQL, MySQL, Firestore, Redis, Supabase  
-**Cloud** Docker, GitHub Actions, Cloudflare Workers, Cloud Run, AWS, Firebase
+**Associate Software Developer** | Obvitree  
+*December 2024 – Present*
 
-#### Before that
+Developing scalable Flutter applications with Firebase integration, building Node.js backends for real-time systems, and implementing AI-powered solutions using modern AI tools.
 
-B.Tech. in Robotics and Automation, Bharati Vidyapeeth Pune, 2020–2024. CGPA 9.42.
+---
+
+## 🔭 Tech Stack
+
+**Languages**  
+![Languages](https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,mysql,dart)
+
+**Frameworks & Libraries**  
+![Frameworks](https://skillicons.dev/icons?i=react,nodejs,nextjs,bootstrap,flutter,tailwindcss)  
+`Spring Boot` • `Hibernate` • `Provider/Riverpod` • `Resilience4j`
+
+**Database & Cloud**  
+![Database & Cloud](https://skillicons.dev/icons?i=mysql,postgresql,firebase,gcp,aws)  
+`Firebase Firestore` • `ORMs` • `AWS EC2`
+
+**AI & Development Tools**  
+![Tools](https://skillicons.dev/icons?i=docker,git,vscode)  
+`Kafka` • `RabbitMQ` • `GitHub Actions` • `Testcontainers` • `Prometheus` • `Grafana` • `OpenTelemetry` • `Google Gemini API` • `Grok API` • `Cursor AI`
+
+**📚 Want to Learn**  
+![Learning](https://skillicons.dev/icons?i=go,rust,solidity)
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SudarshanDhage&theme=github&bg_color=FFFFFF&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&hide_grid=true&custom_title=Contribution%20Activity&radius=6&height=400)
+
+</div>
+
+---
+
+## 🤝 Contact
+
+<div align="center">
+
+<a href="https://linkedin.com/in/sudarshan-dhage"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+<a href="mailto:sudarshan096k@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+<a href="https://github.com/SudarshanDhage"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+<a href="https://x.com/DhageSudarshan_"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+
+</div>
+
+<div align="center">
+
+*Last updated: February 2025*
+
+</div>
