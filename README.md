@@ -1,76 +1,91 @@
 <div align="center">
 
-# Sudarshan Dhage
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudarshanDhage/sudarshandhage/main/assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SudarshanDhage/sudarshandhage/main/assets/hero-light.svg">
+  <img alt="Sudarshan Dhage — Software Engineer" src="https://raw.githubusercontent.com/SudarshanDhage/sudarshandhage/main/assets/hero-dark.svg" width="100%">
+</picture>
 
-### Software Engineer · Full-Stack & Mobile · AI-Driven Development
+<br>
 
-I build reliable, user-focused products across mobile, web, and backend systems.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudarshan-dhage)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudarshan096k@gmail.com)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DhageSudarshan_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sudarshan--dhage-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudarshan-dhage)
+[![Email](https://img.shields.io/badge/Email-sudarshan096k@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sudarshan096k@gmail.com)
+[![X](https://img.shields.io/badge/X-@DhageSudarshan__-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/DhageSudarshan_)
 
 </div>
 
----
+## About
 
-## About me
+I'm a software engineer who enjoys owning a feature end to end — from the data model and API contract through to the interface someone actually taps. Most of my work sits at the intersection of **mobile**, **backend services**, and **applied AI**.
 
-I'm an Associate Software Developer at **Obvitree**, focused on turning product ideas into scalable software. My work spans Flutter applications, Node.js services, real-time systems, Firebase integrations, and AI-powered product experiences.
+What I care about in the code I ship:
 
-- Building production-ready mobile and full-stack applications
-- Designing maintainable APIs and event-driven backend systems
-- Integrating practical AI capabilities into real user workflows
-- Continuously improving reliability, observability, and developer experience
+- **Correctness first.** Clear domain models, predictable state, and failure paths that are handled rather than hoped away.
+- **Systems that explain themselves.** Structured logging, metrics, and traces so production questions have answers.
+- **Momentum without mess.** AI-assisted workflows to move quickly, paired with review discipline so speed doesn't cost quality.
+- **Interfaces people don't have to think about.** Fast, accessible, and consistent across devices.
 
 ## Experience
 
-### Associate Software Developer · Obvitree
-**December 2024 – Present**
+**Associate Software Developer** — Obvitree · *December 2024 – Present*
 
-Developing Flutter applications backed by Firebase, building Node.js services for real-time use cases, and applying modern AI tools to accelerate delivery and create intelligent product features.
+- Build and ship cross-platform **Flutter** applications backed by **Firebase**, covering authentication, real-time data sync, and offline-tolerant state.
+- Develop **Node.js** services for real-time features, designing REST contracts and event flows between mobile clients and backend systems.
+- Integrate **LLM APIs** into product workflows, turning model output into reliable, validated application behaviour.
+- Improve delivery quality through automated pipelines, container-based environments, and instrumentation for production visibility.
 
 ## Technical toolkit
 
-| Area | Technologies |
-| --- | --- |
-| **Languages** | Java · Python · JavaScript · TypeScript · Dart · SQL |
-| **Frontend & Mobile** | Flutter · React · Next.js · Tailwind CSS · Provider · Riverpod |
-| **Backend** | Node.js · Spring Boot · Hibernate · REST APIs · Resilience4j |
-| **Data & Cloud** | PostgreSQL · MySQL · Firebase · Google Cloud · AWS EC2 |
-| **Messaging & DevOps** | Kafka · RabbitMQ · Docker · GitHub Actions · Testcontainers |
-| **Observability** | Prometheus · Grafana · OpenTelemetry |
-| **AI** | Gemini API · Grok API · AI-assisted development workflows |
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,js,ts,nodejs,react,nextjs,java,spring,python,postgres,mysql,firebase,gcp,aws,docker,git,githubactions&perline=9" alt="Technology icons" />
-</p>
-
-## Current focus
-
-- Engineering an original application from the ground up
-- Deepening expertise in distributed systems and production observability
-- Exploring **Go**, **Rust**, and **Solidity**
-
-## GitHub activity
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SudarshanDhage&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Sudarshan's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudarshanDhage&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SudarshanDhage&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudarshanDhage/sudarshandhage/main/assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SudarshanDhage/sudarshandhage/main/assets/stack-light.svg">
+  <img alt="Technical toolkit" src="https://raw.githubusercontent.com/SudarshanDhage/sudarshandhage/main/assets/stack-dark.svg" width="100%">
+</picture>
 
 </div>
 
----
+## Currently
 
 <div align="center">
 
-### Let's build something useful.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudarshanDhage/sudarshandhage/main/assets/now-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SudarshanDhage/sudarshandhage/main/assets/now-light.svg">
+  <img alt="What I am working on right now" src="https://raw.githubusercontent.com/SudarshanDhage/sudarshandhage/main/assets/now-dark.svg" width="100%">
+</picture>
 
-Open to conversations about software engineering, product development, and AI-enabled applications.
+</div>
 
-[LinkedIn](https://linkedin.com/in/sudarshan-dhage) · [Email](mailto:sudarshan096k@gmail.com) · [GitHub](https://github.com/SudarshanDhage) · [X](https://x.com/DhageSudarshan_)
+## How this profile is built
+
+The banner, toolkit board, and terminal card above aren't screenshots or third-party widgets — they're **animated SVGs generated by a small Node script in this repository**, with no runtime dependencies.
+
+```
+data/profile.json     Single source of truth: roles, stack, current focus
+scripts/build.mjs     Entry point — renders every asset in both themes
+scripts/lib/hero.mjs  Animated banner: gradient field, rotating roles, orbit motif
+scripts/lib/stack.mjs Auto-wrapping chip layout with staggered reveal
+scripts/lib/now.mjs   Terminal card with sequential typing animation
+```
+
+Layout is computed rather than hand-placed: text widths are estimated per glyph class, chips wrap to fit the available column, and every card grows to fit its content. Editing `data/profile.json` and running the build is all it takes to update this page.
+
+```bash
+npm run build   # regenerates assets/ for the dark and light themes
+```
+
+A GitHub Actions workflow reruns the same build whenever the data or renderers change, so the committed assets never drift from their source.
+
+<div align="center">
+
+---
+
+### Open to interesting problems
+
+Product engineering, mobile and backend systems, or putting AI to work on something genuinely useful — happy to talk.
+
+[LinkedIn](https://linkedin.com/in/sudarshan-dhage) · [Email](mailto:sudarshan096k@gmail.com) · [X](https://x.com/DhageSudarshan_)
 
 </div>

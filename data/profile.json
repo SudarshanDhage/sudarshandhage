@@ -1,0 +1,47 @@
+{
+  "name": "Sudarshan Dhage",
+  "handle": "SudarshanDhage",
+  "roles": [
+    "Software Engineer",
+    "Full-Stack Developer",
+    "Flutter & Node.js Engineer",
+    "AI-Driven Builder"
+  ],
+  "tagline": "Turning product ideas into software people actually use.",
+  "stack": [
+    {
+      "label": "Languages",
+      "items": ["Dart", "TypeScript", "JavaScript", "Java", "Python", "SQL"]
+    },
+    {
+      "label": "Mobile & Frontend",
+      "items": ["Flutter", "React", "Next.js", "Riverpod", "Provider", "Tailwind CSS"]
+    },
+    {
+      "label": "Backend",
+      "items": ["Node.js", "Express", "Spring Boot", "Hibernate", "REST APIs", "Resilience4j"]
+    },
+    {
+      "label": "Data & Cloud",
+      "items": ["Firebase", "PostgreSQL", "MySQL", "Google Cloud", "AWS EC2", "Docker"]
+    },
+    {
+      "label": "Streaming & Delivery",
+      "items": ["Kafka", "RabbitMQ", "GitHub Actions", "Testcontainers"]
+    },
+    {
+      "label": "Observability",
+      "items": ["Prometheus", "Grafana", "OpenTelemetry"]
+    },
+    {
+      "label": "AI Engineering",
+      "items": ["Gemini API", "Grok API", "Agentic workflows", "Prompt design"]
+    }
+  ],
+  "now": [
+    { "command": "cat current-role.txt", "output": "Associate Software Developer @ Obvitree" },
+    { "command": "git log --oneline -1 side-project", "output": "engineering my own app end to end" },
+    { "command": "ls ~/learning", "output": "distributed-systems  go  rust  solidity" },
+    { "command": "echo $OPEN_TO", "output": "product engineering conversations" }
+  ]
+}
